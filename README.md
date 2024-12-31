@@ -1,4 +1,4 @@
-# road_segmentation
+# Road segmentation
 
 Road segmentation using the Fully Convolutional layers.
 
@@ -8,6 +8,10 @@ Road segmentation using the Fully Convolutional layers.
 [Access Dataset](https://www.kaggle.com/datasets/sakshaymahna/kittiroadsegmentation/data?select=training)
 
 ![https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lUnNaKAjL-Mq10v3tIBtJg.png](https://github.com/user-attachments/assets/8f2a3d86-6f5f-415d-a7c3-27d8ceb28f38)
+
+
+<br>
+
 
 
 **References:**
