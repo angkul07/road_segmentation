@@ -2,6 +2,10 @@
 
 Road segmentation using the Fully Convolutional layers.
 
+My first project in Computer Vision and more to come :)
+
+<br>
+
 **Dataset:** [KITTI Road Dataset](https://www.cvlibs.net/datasets/kitti/eval_road.php)
 <br>
 <br>
@@ -19,3 +23,4 @@ Road segmentation using the Fully Convolutional layers.
 - https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1
 - http://ronny.rest/portfolio/kitti_seg
 - http://ronny.rest/blog/post_2017_09_06_kitti_road_data/
+- For data preprocessing: https://github.com/hossamemamo/KITTI-Road-Segmentation-UNET/blob/main/kitti-road-segmentation.ipynb
